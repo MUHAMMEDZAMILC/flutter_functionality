@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/user/Downloads/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/user/MZ/custom_button"
+export "FLUTTER_APPLICATION_PATH=/Users/user/MZ/flutter_functionality/custom_button"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
